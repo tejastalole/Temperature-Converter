@@ -11,7 +11,7 @@ This project aims to create a **temperature converter** designed for **beginners
 * 📈 Example:
 
   * Entering `100°C` shows `212°F` and `373.32 K`
-  * Entering `200°C` shows `392.00°C` and `473.32 K`
+  * Entering `200°C` shows `392.00°F` and `473.32 K`
 
 ## 🧠 What You'll Learn
 
