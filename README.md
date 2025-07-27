@@ -35,7 +35,7 @@ This project aims to create a **temperature converter** designed for **beginners
 
 ## 🖼️ Screenshot
 
-![Alt text](temperature_converter.PNG)
+![Alt text](Temperature Converter/temperature_converter.PNG)
 
 
 ## ✅ Summary
