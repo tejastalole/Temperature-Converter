@@ -10,8 +10,8 @@ This project aims to create a **temperature converter** designed for **beginners
 * 🔄 Real-time temperature conversion: changing celsius input updates the other two instantly
 * 📈 Example:
 
-  * Entering `100°C` shows `212°F` and `373.32 K`
-  * Entering `200°C` shows `392.00°F` and `473.32 K`
+  * Entering 100°C shows 212°F and 373.15 K
+  * Entering 100°F shows 37.78°C and 310.93 K
 
 ## 🧠 What You'll Learn
 
