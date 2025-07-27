@@ -1,0 +1,65 @@
+* {
+    font-family: "Merriweather Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:  bold;
+    font-style: normal;
+}
+
+body {
+    height: 100vh;
+    background: linear-gradient(to left, #90ed90, #9ee3bb);
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-top: 10px; */
+    height: 100%;
+}
+
+#card {
+    height: 270px;
+    width: 400px;
+    margin-top: 60px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.2);
+    box-shadow: 0px 0px 20px -3px rgb(122, 122, 122);
+}
+
+#heading {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    font-size: 24px;
+    color: #24826c;
+}
+
+.converter-name {
+    color: #24826c;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+input {
+    padding: 5px 0px;
+    width: 200px;
+    border: 2px inset rgb(255, 255, 255);
+    color: #24826c;
+    background-color: rgba(255, 255, 255, 0.2);
+    font-weight: 500;
+}
+
+input:focus {
+    outline: none;
+    border: 2px inset rgb(255, 255, 255);
+}
+
+input:active {
+    border: 2px inset rgb(255, 255, 255);
+}
+
+::placeholder {
+    font-weight: 500;
+    color: rgb(186, 186, 186);
+}
